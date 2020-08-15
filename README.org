@@ -1,6 +1,6 @@
 #+OPTIONS: toc:nil
 
-* Alias for [[https://github.com/irrustible/futures-micro][futures-micro]]
+* Just an alias of [[https://github.com/irrustible/futures-micro][futures-micro]]
 [[https://github.com/r3v2d0g/ufut/blob/main/LICENSE.txt][https://img.shields.io/crates/l/ufut.svg]]
 [[https://crates.io/crates/ufut][https://img.shields.io/crates/v/ufut.svg]]
 [[https://docs.rs/ufut][https://docs.rs/ufut/badge.svg]]

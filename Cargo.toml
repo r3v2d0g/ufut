@@ -1,6 +1,6 @@
 [package]
 name = "ufut"
-description = "An alias for 'futures-micro'"
+description = "Just an alias of 'futures-micro'"
 version = "0.2.0"
 homepage = "https://github.com/r3v2d0g/ufut"
 repository = "https://github.com/r3v2d0g/ufut.git"
