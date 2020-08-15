@@ -6,7 +6,7 @@
 [[https://docs.rs/ufut][https://docs.rs/ufut/badge.svg]]
 
 This crate only provides an alias for [[https://github.com/irrustible/futures-micro][~futures-micro~]], please visit its repository to say thank
-you and/or fuck you to its author <3.
+you to its authors <3.
 
 ** License
 #+BEGIN_QUOTE

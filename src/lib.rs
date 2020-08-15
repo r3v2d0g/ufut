@@ -6,8 +6,8 @@
  *                                                                                                *
  **************************************************************************************************/
 
-//! This crate only provides an alias for [`futures-micro`], please visit its repository to say
-//! thank you and/or fuck you to its author <3.
+//! THis crate only provides an alias for [`futures-micro`], please visit its repository to say
+//! thank you to its authors <3>
 //!
 //! [`futures-micro`]: https://github.com/irrustible/futures-micro
 
