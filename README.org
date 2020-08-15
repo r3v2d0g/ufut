@@ -1,0 +1,16 @@
+#+OPTIONS: toc:nil
+
+* Alias for [[https://github.com/irrustible/futures-micro][futures-micro]]
+[[https://github.com/r3v2d0g/ufut/blob/main/LICENSE.txt][https://img.shields.io/crates/l/ufut.svg]]
+[[https://crates.io/crates/ufut][https://img.shields.io/crates/v/ufut.svg]]
+[[https://docs.rs/ufut][https://docs.rs/ufut/badge.svg]]
+
+This crate only provides an alias for [[https://github.com/irrustible/futures-micro][~futures-micro~]], please visit its repository to say thank
+you and/or fuck you to its author <3.
+
+** License
+#+BEGIN_QUOTE
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#+END_QUOTE

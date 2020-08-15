@@ -1,0 +1,19 @@
+[package]
+name = "ufut"
+description = "An alias for 'futures-micro'"
+version = "0.2.0"
+homepage = "https://github.com/r3v2d0g/ufut"
+repository = "https://github.com/r3v2d0g/ufut.git"
+documentation = "https://docs.rs/ufut"
+keywords = ["async", "futures", "no-std"]
+categories = ["asynchronous", "concurrency", "no-std"]
+readme = "README.md"
+license = "MPL-2.0"
+authors = [
+    "James Laver <james.laver@gmail.com>",
+    "Matthieu Le brazidec (r3v2d0g) <r3v2d0g@jesus.gg>"
+]
+edition = "2018"
+
+[dependencies]
+futures-micro = "=0.2.0"
