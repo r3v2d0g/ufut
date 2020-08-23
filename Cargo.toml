@@ -1,7 +1,7 @@
 [package]
 name = "ufut"
 description = "Just an alias of 'futures-micro'"
-version = "0.2.0"
+version = "0.3.0"
 homepage = "https://github.com/r3v2d0g/ufut"
 repository = "https://github.com/r3v2d0g/ufut.git"
 documentation = "https://docs.rs/ufut"
@@ -16,4 +16,4 @@ authors = [
 edition = "2018"
 
 [dependencies]
-futures-micro = "=0.2.0"
+futures-micro = "=0.3.0"
